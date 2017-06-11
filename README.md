@@ -20,4 +20,4 @@ This meetup is hosted once a month on the first Monday of every month.
 
 Or
 ## June 2017
-### [PyWeb - Intro to GraphQL with Python - Paul Bailey](link)
+### [PyWeb - Intro to Machine Learning - Guy de Carufel](pyweb/june2017-machine-learning-guy-de-carufel/)
