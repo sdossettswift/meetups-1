@@ -2,9 +2,9 @@
 ## Speaker: [Guy de Carufel](https://twitter.com/guydecarufel/)
 #### Date: Tuesday June 6th - 2017.
 
-### Slides - [ml_intro.pptm](./ml_intro.pptm?raw=true)
+## Slides - [ml_intro.pptm](./ml_intro.pptm?raw=true)
 
-### Notes
+## Notes
 
 #### Podcasts
 * [Linear Digressions](http://lineardigressions.com/)
